@@ -58,7 +58,7 @@ const About = () => {
             </div>
           </div>
         </div>
-
+        
         </div>
         <Loader type="pacman" />
         </>
